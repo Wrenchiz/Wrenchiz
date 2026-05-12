@@ -51,7 +51,7 @@ I am a developer passionate about game development and building various software
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![s&box Dev](https://img.shields.io/badge/s&box_Dev-0866FF?style=for-the-badge&logo=facepunch&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=robloxstudio&logoColor=white)
 
 </p>
 
