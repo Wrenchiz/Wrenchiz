@@ -21,5 +21,5 @@ I am a developer passionate about game development and building various software
 - ![FL Studio](https://img.shields.io/badge/FL_Studio-FF4E00?style=for-the-badge&logo=flstudio&logoColor=white)
 
 ### 📈 GitHub Stats
-![Wrenchiz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wrenchiz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wrenchiz&layout=compact&theme=radical)
+![Wrenchiz GitHub Stats](https://github-readme-stats.vercel.app/api?username=wrenchiz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrenchiz&layout=compact&theme=radical)
