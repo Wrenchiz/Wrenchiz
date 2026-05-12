@@ -24,6 +24,8 @@ I am a developer passionate about game development and building various software
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Luau](https://img.shields.io/badge/luau-00A2FF.svg?style=for-the-badge&logo=luau&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-68217A.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 </p>
 
@@ -48,6 +50,7 @@ I am a developer passionate about game development and building various software
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![s&box Dev](https://img.shields.io/badge/s&box_Dev-0866FF?style=for-the-badge&logo=facepunch&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
 
 </p>
