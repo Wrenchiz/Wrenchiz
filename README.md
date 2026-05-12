@@ -32,5 +32,6 @@ I am a developer passionate about game development and building various software
 ![After Effects](https://img.shields.io/badge/After%20Effects-CF96FD?style=for-the-badge&logo=adobe-after-effects&logoColor=311C87)
 ![FL Studio](https://img.shields.io/badge/FL_Studio-FF4E00?style=for-the-badge&logo=fl-studio&logoColor=white)
 
-### 📈 GitHub Stats
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Wrenchiz&theme=dark)
+### 📈 GitHub Stats  
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wrenchiz&theme=github_dark)
