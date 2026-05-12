@@ -21,4 +21,4 @@ I am a developer passionate about game development and building various software
 - ![FL Studio](https://img.shields.io/badge/FL_Studio-FF4E00?style=for-the-badge&logo=flstudio&logoColor=white)
 
 ### 📈 GitHub Stats
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Wrenchiz&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Wrenchiz&theme=dark)
