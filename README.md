@@ -14,6 +14,11 @@ I am a developer passionate about game development and building various software
 - 💻 I use both **Linux Mint** and **Windows** for my development environment.
 - 🎵 Outside of coding, I spend my time producing music in **FL Studio** and creating visual content with **After Effects.**
 
+### ✉️ Contact
+
+- <img src="https://img.shields.io/badge/-wrenchizofficial-5865F2?style=flat&logo=discord&logoColor=white" height="20" align="center"> &nbsp;&nbsp;  
+- <img src="https://img.shields.io/badge/-wrenchizofficial-E4405F?style=flat&logo=instagram&logoColor=white" height="20" align="center">  
+
 ---
 
 ## 🛠️ Programming Languages
