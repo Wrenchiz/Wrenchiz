@@ -32,6 +32,7 @@ I am a developer passionate about game development and building various software
 ![Luau](https://img.shields.io/badge/luau-00A2FF.svg?style=for-the-badge&logo=luau&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23CE412B.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 </p>
 
