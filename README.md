@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Wrenchiz A.K.A. 88</h1>
+<h1 align="center">Hi, I'm 88 A.K.A. Wrenchiz</h1>
 
 <h3 align="center">
 Productor • Editor • Developer
