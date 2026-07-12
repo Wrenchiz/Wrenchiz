@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm 88 A.K.A. Wrenchiz</h1>
 
 <h3 align="center">
-Productor • Editor • Developer
+Producer • Editor • Developer
 </h3>
 
 ---
