@@ -67,6 +67,7 @@ I am a developer passionate about game development and building various software
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=robloxstudio&logoColor=white)
 ![Vinegar](https://img.shields.io/badge/Vinegar-B60014?style=for-the-badge&logo=robloxstudio&logoColor=white)
 ![Godot](https://img.shields.io/badge/godot-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 </p>
 
