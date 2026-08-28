@@ -41,7 +41,7 @@ I am a developer passionate about game development and building various software
 
 ---
 
-## 💻 Operating Systems
+## 💻 OS
 
 <p align="center">
 
