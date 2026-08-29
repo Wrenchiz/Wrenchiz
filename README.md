@@ -1,8 +1,6 @@
-<h1 align="center">Hi, I'm 88 A.K.A. Wrenchiz</h1>
-
-<h3 align="center">
-Producer • Editor • Developer
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2CF700FF&center=true&vCenter=true&width=500&height=50&lines=I'm+88+A.K.A.+Wrenchiz;Producer+%E2%80%A2+Editor+%E2%80%A2+Developer" alt="Typing SVG" />
+</div>
 
 ---
 
